@@ -1,1 +1,1 @@
-# groupe2
+Vous allez travailler sur la page A propos et intégrer des animations, ajouter le module de téléchargement des deux fichiers pdf(français et anglais) et modifier le contenu selon le besoin et les directives du client et du chef de projet  
